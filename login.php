@@ -18,7 +18,9 @@
  
 	<div class="kotak_login">
 		<p class="tulisan_login">Silahkan login</p>
- 
+		<center>
+		<img src="logo.png" alt="" class="img" style="width: 75px;">
+		</center>
 		<form action="cek_login.php" method="post">
 			<label>Username</label>
 			<input type="text" name="username" class="form_login" placeholder="Username .." required="required">

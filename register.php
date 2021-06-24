@@ -14,9 +14,11 @@ include 'koneksi.php';
 <br>
 <h1>Silahkan melakukan pendaftaran disini </h1>
 
-<div class="kotak_login mt-5">
+<div class="kotak_login mt-4">
 		<p class="tulisan_login">Silahkan daftar</p>
-
+        <center>
+		<img src="logo.png" alt="" class="img" style="width: 75px;">
+		</center>
         <form method="post" enctype="multipart/form-data">
         <div class="form-group">
             <label>Nama</label>
